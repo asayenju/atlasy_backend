@@ -1,0 +1,1 @@
+"""Atlasy backend FastAPI application."""

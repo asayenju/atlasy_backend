@@ -1,0 +1,10 @@
+# Web (pins verified installable on Python 3.14 / arm64 macOS wheels)
+fastapi==0.136.1
+uvicorn[standard]==0.46.0
+
+# Config
+pydantic==2.13.4
+pydantic-settings==2.14.1
+
+# Supabase Auth JWT verification (HS256 + SUPABASE_JWT_SECRET)
+PyJWT==2.12.1
