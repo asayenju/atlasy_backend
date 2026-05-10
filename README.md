@@ -4,7 +4,7 @@ FastAPI service with a public health check and a JWT-protected `/me` route that 
 
 ## Prerequisites
 
-- Python 3.11+ recommended (3.12+ supported)
+- Python **3.11+** (requirements include wheels for **3.14** on Apple Silicon; use **3.12–3.13** if your platform lacks wheels)
 - macOS with zsh (activation commands below)
 
 ## Virtual environment
